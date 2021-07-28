@@ -1,5 +1,6 @@
 # font-edit-robot
 A repository to develop glyphs rendered as SDFs.  
+(The name of this repository was given by mistake. It should "font-edit-roboto." But I keep the initial repository name.)
 I convert ttf fonts into pbf files using unvt/nanban and mapbox's node-fontnik.
 Please note that Roboto fonts have their own license (Apache License).  
 
