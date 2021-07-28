@@ -7,7 +7,7 @@ Please note that Roboto fonts have their own license (Apache License).
 ## background
 I wanted to have PBF fonts for our web map. 
 
-## install
+## How to do
 ```console
 git clone https://github.com/un-vector-tile-toolkit/font-edit-robot
 cd font-edit-robot
@@ -22,6 +22,8 @@ mkdir Roboto/(outputlocation)
 ./node-fontnik/bin/build-glyphs Roboto/Roboto-(xxx).ttf Roboto/(outputlocation)
 
 ```
+
+You will find converted fonts in pbf in Roboto folder.  
 
 
 ## source
