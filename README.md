@@ -17,7 +17,8 @@ cd node-fontnik
 npm install
 make
 cd ..
-./node-fontnik/bin/build-glyphs Roboto/Roboto-(xxx).ttf (outputlocation)
+mkdir Roboto/(outputlocation)
+./node-fontnik/bin/build-glyphs Roboto/Roboto-(xxx).ttf Roboto/(outputlocation)
 
 ```
 
